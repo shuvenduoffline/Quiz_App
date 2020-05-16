@@ -1,3 +1,2 @@
 # Quiz_App
 Sample Quiz App, Added Scratch card like features on performance.
-This is from new Branch....
